@@ -18,8 +18,8 @@ https://www.linkedin.com/edu/alumni?id=13502&facets=G.in:6508&keyword=&dateType=
 
 ***********************************************/
 
-var SCHOOL_ID = "17926"; //linkedin id of the school
-var FILTER = "G.us:84" //filter values
+var SCHOOL_ID = "13502"; //linkedin id of the school
+var FILTER = "G.in:6508" //filter values
 var start = 0; 
 var total = 400; //total number of records to be fetched
 var count = 200; //total number of records to be fetched per iteration
