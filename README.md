@@ -1,6 +1,4 @@
-Linkedin Alumni Data Fetcher
-
-author lokesh.sardana
+#Linkedin Alumni Data Fetcher
 
 With the help of this script, you can easily fetch the details of your school's alumni which are accessible from your account.
 
